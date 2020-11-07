@@ -67,7 +67,7 @@ public class Q03_StringAdjacent {
 			if((arr.get(i)-arr.get(i+1))==1){
 				continue;
 			}else{
-				output="";
+				output="fail";
 			}
 		}
 		
